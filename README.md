@@ -18,6 +18,7 @@ A full-stack web application to manage books, users, and borrowing activities wi
 
 ![image alt](https://github.com/Madhuhugar-tech/library-management-system/blob/bb24c5d3b4b3823235985ff548485da133c048c0/Screenshot%202026-04-24%20193754.png)
 ![image alt](https://github.com/Madhuhugar-tech/library-management-system/blob/6f1e942076b2024bfdf1cb5c1d0dad75e7a483bd/Screenshot%202026-04-24%20194044.png)
+![image alt](https://github.com/Madhuhugar-tech/library-management-system/blob/366f73a096c114d56ca8b43f383ef036c13ad71e/Screenshot%202026-04-24%20194203.png)
 
 ### 🧑‍💼 Admin
 - Dashboard overview
