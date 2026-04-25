@@ -16,6 +16,8 @@ A full-stack web application to manage books, users, and borrowing activities wi
 - View borrow history
 - Notifications
 
+![image alt](https://github.com/Madhuhugar-tech/library-management-system/blob/bb24c5d3b4b3823235985ff548485da133c048c0/Screenshot%202026-04-24%20193754.png)
+
 ### 🧑‍💼 Admin
 - Dashboard overview
 - Add books (single & bulk)
