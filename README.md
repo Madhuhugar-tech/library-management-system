@@ -28,7 +28,7 @@ A full-stack web application to manage books, users, and borrowing activities wi
 - Notifications
 
 ![image alt](https://github.com/Madhuhugar-tech/library-management-system/blob/b53d9dd557efffb7adadc0d5c2f05714ef5b2d39/Screenshot%202026-04-25%20085802.png)
-![image alt]()
+![image alt](https://github.com/Madhuhugar-tech/library-management-system/blob/cfdf88d6d1f476c130ce81172f73f5e3dd338d6a/Screenshot%202026-04-25%20085836.png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
