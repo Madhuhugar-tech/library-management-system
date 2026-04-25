@@ -2,6 +2,7 @@
 
 A full-stack web application to manage books, users, and borrowing activities with a modern UI and role-based access.
 
+![image alt](https://github.com/Madhuhugar-tech/library-management-system/blob/5062866075fdeb1a32431d32744f536fbb0582a4/Screenshot%202026-04-24%20193700.png)
 ---
 
 ## 🚀 Features
